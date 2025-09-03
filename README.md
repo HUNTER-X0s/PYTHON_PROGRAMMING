@@ -43,14 +43,14 @@
 - **File I/O**
   - Reading and writing files
   - Working with directories
-- **CObject-Oriented Programming**
+- **Object-Oriented Programming**
   - Classes and objects
   - Methods and attributes
-- **CInheritance & More on OOPs**
+- **Inheritance & More on OOPs**
   - Inheritance
   - Polymorphism
   - Operator overloading
-- **Chapter 12: Advanced Python 1**
+- **Advanced Python 1**
   - Newly added features in Python
   - Walrus operator
   - Advanced type hints
@@ -59,7 +59,7 @@
   - Exception handling enhancements
   - Global keyword and enumerate function
   - List comprehensions
-- **CAdvanced Python 2**
+- **Advanced Python 2**
   - Virtual environments
   - Lambda functions
   - String methods: `join` and `format`
