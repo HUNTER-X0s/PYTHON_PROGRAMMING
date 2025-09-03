@@ -1,0 +1,74 @@
+# Python 
+
+- **Modules, Comments & pip**
+  - Writing the first Python program
+  - Understanding modules
+  - Using pip for package management
+  - Using Python as a calculator
+  - Comments in Python
+- **Variables and Data Types**
+  - Defining variables
+  - Different data types in Python
+  - Rules for choosing an identifier
+  - Operators in Python
+  - Using `type()` function and typecasting
+  - `input()` function
+- **Strings**
+  - String slicing
+  - Slicing with skip values
+  - String functions
+  - Escape sequence characters
+- **Lists and Tuples**
+  - List indexing
+  - List methods
+  - Tuples in Python
+  - Tuple methods
+- **Dictionary & Sets**
+  - Properties of dictionaries
+  - Dictionary methods
+  - Sets in Python
+  - Properties and operations on sets
+- **Conditional Expression**
+  - `if`, `else`, and `elif` statements
+  - Relational and logical operators
+- **Loops in Python**
+  - `while` loop
+  - `for` loop
+  - `range()` function
+  - `for` loop with `else`
+  - Break, continue, and pass statements
+- **Functions & Recursions**
+  - Defining and calling functions
+  - Recursion in Python
+- **File I/O**
+  - Reading and writing files
+  - Working with directories
+- **CObject-Oriented Programming**
+  - Classes and objects
+  - Methods and attributes
+- **CInheritance & More on OOPs**
+  - Inheritance
+  - Polymorphism
+  - Operator overloading
+- **Chapter 12: Advanced Python 1**
+  - Newly added features in Python
+  - Walrus operator
+  - Advanced type hints
+  - Match case
+  - Dictionary merge & update operators
+  - Exception handling enhancements
+  - Global keyword and enumerate function
+  - List comprehensions
+- **CAdvanced Python 2**
+  - Virtual environments
+  - Lambda functions
+  - String methods: `join` and `format`
+  - Functional programming: `map`, `filter`, and `reduce`
+
+## Projects
+
+- **Project 1: Snake Water Gun Game**
+  - A fun and interactive game where the player competes against the computer in a variation of Rock-Paper-Scissors.
+- **Project 2: Guess The Number**
+  - A guessing game where the player tries to guess a randomly generated number within a certain range.
+
