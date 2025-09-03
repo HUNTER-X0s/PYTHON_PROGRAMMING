@@ -1,58 +1,52 @@
 # Python 
 
-## Introduction
-
-## Chapters
-
-This is divided into several chapters, each focusing on different aspects of Python programming:
-
-- **Chapter 1: Modules, Comments & pip**
+- **Modules, Comments & pip**
   - Writing the first Python program
   - Understanding modules
   - Using pip for package management
   - Using Python as a calculator
   - Comments in Python
-- **Chapter 2: Variables and Data Types**
+- **Variables and Data Types**
   - Defining variables
   - Different data types in Python
   - Rules for choosing an identifier
   - Operators in Python
   - Using `type()` function and typecasting
   - `input()` function
-- **Chapter 3: Strings**
+- **Strings**
   - String slicing
   - Slicing with skip values
   - String functions
   - Escape sequence characters
-- **Chapter 4: Lists and Tuples**
+- **Lists and Tuples**
   - List indexing
   - List methods
   - Tuples in Python
   - Tuple methods
-- **Chapter 5: Dictionary & Sets**
+- **Dictionary & Sets**
   - Properties of dictionaries
   - Dictionary methods
   - Sets in Python
   - Properties and operations on sets
-- **Chapter 6: Conditional Expression**
+- **Conditional Expression**
   - `if`, `else`, and `elif` statements
   - Relational and logical operators
-- **Chapter 7: Loops in Python**
+- **Loops in Python**
   - `while` loop
   - `for` loop
   - `range()` function
   - `for` loop with `else`
   - Break, continue, and pass statements
-- **Chapter 8: Functions & Recursions**
+- **Functions & Recursions**
   - Defining and calling functions
   - Recursion in Python
-- **Chapter 9: File I/O**
+- **File I/O**
   - Reading and writing files
   - Working with directories
-- **Chapter 10: Object-Oriented Programming**
+- **CObject-Oriented Programming**
   - Classes and objects
   - Methods and attributes
-- **Chapter 11: Inheritance & More on OOPs**
+- **CInheritance & More on OOPs**
   - Inheritance
   - Polymorphism
   - Operator overloading
@@ -65,7 +59,7 @@ This is divided into several chapters, each focusing on different aspects of Pyt
   - Exception handling enhancements
   - Global keyword and enumerate function
   - List comprehensions
-- **Chapter 13: Advanced Python 2**
+- **CAdvanced Python 2**
   - Virtual environments
   - Lambda functions
   - String methods: `join` and `format`
